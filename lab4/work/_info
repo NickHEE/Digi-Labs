@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/School/Term 6/Digi/Lab3
+vspimaster
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1548995556
+!i10b 1
+!s100 [c1O27FKIGCc^JUd8gTIN1
+I>O>G0R3<MT9K?i]GKz@L22
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 spimaster_sv_unit
+S1
+Z3 dE:/School/Term 6/Digi/lab4
+w1548995547
+8E:/School/Term 6/Digi/lab4/spimaster.sv
+FE:/School/Term 6/Digi/lab4/spimaster.sv
+L0 6
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1548995556.000000
+!s107 E:/School/Term 6/Digi/lab4/spimaster.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/School/Term 6/Digi/lab4/spimaster.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vspimaster_tb
+R0
+R1
+!i10b 1
+!s100 AJ`ZK<aW^bWj2aKQUa80_0
+IP1cYR;U7GB@>8zi_KiJ`K0
+R2
+!s105 spimaster_tb_sv_unit
+S1
+R3
+w1548987899
+8E:/School/Term 6/Digi/lab4/spimaster_tb.sv
+FE:/School/Term 6/Digi/lab4/spimaster_tb.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/School/Term 6/Digi/lab4/spimaster_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/School/Term 6/Digi/lab4/spimaster_tb.sv|
+!i113 1
+R6
+R7

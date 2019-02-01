@@ -1,0 +1,8 @@
+{E:/School/Term 6/Digi/lab4/spimaster_tb.sv} {1 {vlog -work work -sv -stats=none {E:/School/Term 6/Digi/lab4/spimaster_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spimaster_tb
+
+Top level modules:
+	spimaster_tb
+
+} {} {}}
