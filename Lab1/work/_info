@@ -1,0 +1,202 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Apps/altera/intelFPGA_lite/18.0
+vbcitid
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1547227403
+!i10b 1
+!s100 5eK8KBkTT_?6nAGhC^Gl@2
+ITR:cZDM;zEcbQ6BdOBgM33
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 bcitid_sv_unit
+S1
+Z3 dC:/Users/A00920439/Desktop/Lab1
+w1547225722
+8C:/Users/A00920439/Desktop/Lab1/bcitid.sv
+FC:/Users/A00920439/Desktop/Lab1/bcitid.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1547227403.000000
+!s107 C:/Users/A00920439/Desktop/Lab1/bcitid.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/A00920439/Desktop/Lab1/bcitid.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vbcitid_tb
+R0
+R1
+!i10b 1
+!s100 M4;8zWKRUjmf?Q0k]k07z1
+In;hNbgPUiNBe>_9VV^IRb2
+R2
+!s105 bcitid_tb_sv_unit
+S1
+R3
+w1483955514
+8C:/Users/A00920439/Desktop/Lab1/bcitid_tb.sv
+FC:/Users/A00920439/Desktop/Lab1/bcitid_tb.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/A00920439/Desktop/Lab1/bcitid_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/A00920439/Desktop/Lab1/bcitid_tb.sv|
+!i113 1
+R6
+R7
+vdecode2
+R0
+R1
+!i10b 1
+!s100 >``8mB5TnUkk<XQ3E6YZV2
+Ici?ICYhgQPf]^NC?:iBda2
+R2
+!s105 decode2_sv_unit
+S1
+R3
+w1547227040
+8C:/Users/A00920439/Desktop/Lab1/decode2.sv
+FC:/Users/A00920439/Desktop/Lab1/decode2.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/A00920439/Desktop/Lab1/decode2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/A00920439/Desktop/Lab1/decode2.sv|
+!i113 1
+R6
+R7
+vdecode2_tb
+R0
+R1
+!i10b 1
+!s100 A;F[ab`>@D^]:Ybo1VA<^0
+I]7kLhSd4RA=clzG@_GgmD0
+R2
+!s105 decode2_tb_sv_unit
+S1
+R3
+w1483955586
+8C:/Users/A00920439/Desktop/Lab1/decode2_tb.sv
+FC:/Users/A00920439/Desktop/Lab1/decode2_tb.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/A00920439/Desktop/Lab1/decode2_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/A00920439/Desktop/Lab1/decode2_tb.sv|
+!i113 1
+R6
+R7
+vdecode7
+R0
+R1
+!i10b 1
+!s100 LAnfgNll5G3>>3zbMKU`@1
+IeM1jJ<PhK1E`8VnMMja<z3
+R2
+!s105 decode7_sv_unit
+S1
+R3
+w1547227397
+8C:/Users/A00920439/Desktop/Lab1/decode7.sv
+FC:/Users/A00920439/Desktop/Lab1/decode7.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/A00920439/Desktop/Lab1/decode7.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/A00920439/Desktop/Lab1/decode7.sv|
+!i113 1
+R6
+R7
+vdecode7_tb
+R0
+R1
+!i10b 1
+!s100 lcJ<51i1GJ;iWz8Nf9LA20
+ICOzBX1M16[Q>zz88zLWTV2
+R2
+!s105 decode7_tb_sv_unit
+S1
+R3
+w1483955614
+8C:/Users/A00920439/Desktop/Lab1/decode7_tb.sv
+FC:/Users/A00920439/Desktop/Lab1/decode7_tb.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/A00920439/Desktop/Lab1/decode7_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/A00920439/Desktop/Lab1/decode7_tb.sv|
+!i113 1
+R6
+R7
+vlab1
+R0
+R1
+!i10b 1
+!s100 9o7ZH3b<0AZE5Wo@LRiO32
+I6F;UhTmjSmY;Ml@GC[I4a2
+R2
+Z8 !s105 lab1_sv_unit
+S1
+R3
+Z9 w1483999242
+Z10 8C:/Users/A00920439/Desktop/Lab1/lab1.sv
+Z11 FC:/Users/A00920439/Desktop/Lab1/lab1.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+Z12 !s107 C:/Users/A00920439/Desktop/Lab1/lab1.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/A00920439/Desktop/Lab1/lab1.sv|
+!i113 1
+R6
+R7
+vlab1clk
+R0
+R1
+!i10b 1
+!s100 kA9cmCjo;O118zKa3;nC82
+Ii3ZzLmTESbE8zLdXh=^PY3
+R2
+R8
+S1
+R3
+R9
+R10
+R11
+L0 28
+R4
+r1
+!s85 0
+31
+R5
+R12
+R13
+!i113 1
+R6
+R7

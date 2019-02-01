@@ -1,0 +1,17 @@
+module decode7 ( input logic [3:0] num,
+					 output logic [7:0] led);		 
+
+					 always_comb
+						case(num)
+							0 : led = 8'b11000000
+							1 : led = 8'b11111001
+							2 : led = 8'b10100100
+							3 : led = 8'b10110000
+							4 : led = 8'b10011001
+							5 : led = 8'b10010010
+							6 : led = 8'b10000010
+							7 : led = 8'b11111000
+							8 : led = 8'b10000000
+							9 : led = 8'b10011000
+						endcase
+endmodule 

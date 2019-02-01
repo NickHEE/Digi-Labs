@@ -1,0 +1,30 @@
+{E:/School/Term 6/Digi/lab2/colseq.sv} {1 {vlog -work work -sv -stats=none {E:/School/Term 6/Digi/lab2/colseq.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module colseq
+
+Top level modules:
+	colseq
+
+} {} {}} {E:/School/Term 6/Digi/lab2/decode7.sv} {1 {vlog -work work -sv -stats=none {E:/School/Term 6/Digi/lab2/decode7.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decode7
+
+Top level modules:
+	decode7
+
+} {} {}} {E:/School/Term 6/Digi/lab2/kpdecode.sv} {1 {vlog -work work -sv -stats=none {E:/School/Term 6/Digi/lab2/kpdecode.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module kpdecode
+
+Top level modules:
+	kpdecode
+
+} {} {}} {E:/School/Term 6/Digi/lab2/lab2.sv} {1 {vlog -work work -sv -stats=none {E:/School/Term 6/Digi/lab2/lab2.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab2
+-- Compiling module pll
+
+Top level modules:
+	lab2
+
+} {} {}}

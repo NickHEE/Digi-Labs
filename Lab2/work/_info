@@ -1,0 +1,201 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/modelsim_ase/win32aloem
+vcolseq
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1547779714
+!i10b 1
+!s100 YVc0daON69]no08aVdN1D1
+IRMFkLEf[8M=2TVioCFz`a1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 kpdecode_sv_unit
+S1
+Z4 dE:/School/Term 6/Digi/lab2
+w1547779269
+Z5 8E:/School/Term 6/Digi/lab2/kpdecode.sv
+Z6 FE:/School/Term 6/Digi/lab2/kpdecode.sv
+L0 1
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1547779714.000000
+!s107 E:/School/Term 6/Digi/lab2/kpdecode.sv|
+Z9 !s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/School/Term 6/Digi/lab2/kpdecode.sv|
+!i113 1
+Z10 o-work work -sv
+Z11 tCvgOpt 0
+vdecode7
+R0
+!s110 1547779713
+!i10b 1
+!s100 SZGEA3k6bmFhN:0=[eFdY1
+I8Q6o`MeB@OLcEKfG[5Dj93
+R2
+!s105 decode7_sv_unit
+S1
+R4
+w1547778173
+8E:/School/Term 6/Digi/lab2/decode7.sv
+FE:/School/Term 6/Digi/lab2/decode7.sv
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1547779713.000000
+!s107 E:/School/Term 6/Digi/lab2/decode7.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/School/Term 6/Digi/lab2/decode7.sv|
+!i113 1
+R10
+R11
+vkpdecode
+R0
+!s110 1547780074
+!i10b 1
+!s100 PjIg`Wg`LXhiVbf8b2bhD3
+IJK8Kz9NgSfF5S;BUJJ1XE2
+R2
+R3
+S1
+R4
+w1547780069
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1547780074.000000
+!s107 E:/School/Term 6/Digi/lab2/kpdecode.sv|
+R9
+!i113 1
+R10
+R11
+vlab2
+R0
+R1
+!i10b 1
+!s100 g7Ie6UEi2SCI`1ORO8fR52
+IjE:GgF]3Oa_gQFTaI?9?j2
+R2
+Z12 !s105 lab2_sv_unit
+S1
+R4
+Z13 w1484538880
+Z14 8E:/School/Term 6/Digi/lab2/lab2.sv
+Z15 FE:/School/Term 6/Digi/lab2/lab2.sv
+L0 5
+R7
+r1
+!s85 0
+31
+R8
+Z16 !s107 E:/School/Term 6/Digi/lab2/lab2.sv|
+Z17 !s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/School/Term 6/Digi/lab2/lab2.sv|
+!i113 1
+R10
+R11
+vlab2_kp
+R0
+R1
+!i10b 1
+!s100 SADTadlHa2]?WEjamSG9T2
+I4g@OL``cVbDNoGeViNf8I3
+R2
+Z18 !s105 lab2_tb_sv_unit
+S1
+R4
+Z19 w1484539618
+Z20 8E:/School/Term 6/Digi/lab2/lab2_tb.sv
+Z21 FE:/School/Term 6/Digi/lab2/lab2_tb.sv
+L0 10
+R7
+r1
+!s85 0
+31
+R8
+Z22 !s107 E:/School/Term 6/Digi/lab2/lab2_tb.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/School/Term 6/Digi/lab2/lab2_tb.sv|
+!i113 1
+R10
+R11
+vlab2_tb
+R0
+DXx4 work 15 lab2_tb_sv_unit 0 22 ]`nl[hojEo7;kBW`_fhbT2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 [_PeZZT;:Mmh^DWSNT03l2
+IS?`2PR32Q28IAYYB5Q0B>3
+R18
+S1
+R4
+R19
+R20
+R21
+L0 49
+R7
+R8
+R22
+R23
+!i113 1
+R10
+R11
+Xlab2_tb_sv_unit
+R0
+V]`nl[hojEo7;kBW`_fhbT2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _KJc<>gVS2Dh9f:dO@`ha1
+I]`nl[hojEo7;kBW`_fhbT2
+!i103 1
+S1
+R4
+R19
+R20
+R21
+Z24 L0 30
+R7
+R8
+R22
+R23
+!i113 1
+R10
+R11
+vpll
+R0
+R1
+!i10b 1
+!s100 dHf2j64l8ZHO`6Sn5QDz40
+IR<CbzmL_H4Gez8ZzSd`gL1
+R2
+R12
+S1
+R4
+R13
+R14
+R15
+R24
+R7
+r1
+!s85 0
+31
+R8
+R16
+R17
+!i113 1
+R10
+R11

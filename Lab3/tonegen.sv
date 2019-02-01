@@ -1,0 +1,32 @@
+// tonegen.sv - tone generator for ELEX 7660 Lab 3
+
+// Creates a square wave on the spkr (speaker) output at a
+// frequency given by the 'freq' control register.
+
+module tonegen
+  #(logic [31:0] fclk)           // clock frequency, Hz
+   (input logic [31:0] writedata, // Avalon MM bus, data
+    input logic write,            // " write strobe
+    output logic spkr,            // on/off output for audio
+    input logic reset, clk ) ;
+
+int count;
+logic [31:0] freq;
+
+always_ff @ (posedge clk, negedge reset) begin
+	if (reset) begin
+		freq = 0;
+		count = fclk;
+		spkr = 0;
+	end
+	if (write) begin
+		freq = writedata;
+	end
+	if (count <= 0) begin
+		spkr ^= 1;
+		count = fclk;
+	end
+	count = (count - (2*freq));
+end
+
+endmodule
